@@ -1,0 +1,10 @@
+.container{
+    text-align: center;
+    box-shadow: white 5px 5px;
+}
+
+#headingText{
+    color:black;
+    margin: auto;
+    padding: 10px 10px 10px 10px;
+}
